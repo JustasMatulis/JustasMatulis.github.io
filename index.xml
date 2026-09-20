@@ -28,5 +28,12 @@
 &lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sudo systemctl status nginx
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
     </item>
+    <item>
+      <title>About</title>
+      <link>https://justasmatulis.github.io/about/</link>
+      <pubDate>Fri, 18 Sep 2026 21:33:57 +0300</pubDate>
+      <guid>https://justasmatulis.github.io/about/</guid>
+      <description>&lt;p&gt;Justas Matulis Cloud Computing LAB. PRIFs-23, Homework Assignment 1&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
