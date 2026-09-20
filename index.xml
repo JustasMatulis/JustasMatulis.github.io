@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Justas Matulis - Prifs-23</title>
+    <link>https://justasmatulis.github.io/</link>
+    <description>Recent content on Justas Matulis - Prifs-23</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 20 Sep 2026 20:38:20 +0300</lastBuildDate>
+    <atom:link href="https://justasmatulis.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First Post</title>
+      <link>https://justasmatulis.github.io/posts/first-post/</link>
+      <pubDate>Sun, 20 Sep 2026 20:38:20 +0300</pubDate>
+      <guid>https://justasmatulis.github.io/posts/first-post/</guid>
+      <description>&lt;p&gt;Hello, this is my first post. I am Justas Matulis from group Prifs-23.&lt;/p&gt;
+&lt;p&gt;This site is built with Hugo and published on GitHub Pages.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
